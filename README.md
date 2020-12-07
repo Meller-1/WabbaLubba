@@ -1,2 +1,2 @@
-# WabbaLubba.github.io
+# WabbaLubba
 Пробный файл
